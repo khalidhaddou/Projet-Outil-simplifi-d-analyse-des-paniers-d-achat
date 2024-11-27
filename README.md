@@ -33,7 +33,9 @@ Pour installer et exécuter le backend, suivez les étapes ci-dessous :
    git clone https://votre-repository.git
    cd votre-dossier
 2. Accédez au répertoire du backend :
+   ```bash
 cd backend
+
 3. Installez les dépendances du backend :
   ```bash
 npm install
