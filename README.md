@@ -35,28 +35,24 @@ Pour installer et exécuter le backend, suivez les étapes ci-dessous :
 2. Accédez au répertoire du backend :
 cd backend
 3. Installez les dépendances du backend :
+  ```bash
 npm install
  4. Lancez le serveur avec ts-node :
+   ```bash
 npx ts-node src/server.ts
 Le serveur backend sera accessible à l'adresse suivante : http://localhost:5000.
 ### 2. Installation et Exécution du Frontend
 Pour installer et exécuter le frontend, suivez les étapes ci-dessous :
 
 1. Accédez au répertoire du frontend :
+  ```bash
 cd frontend
 
 2. Installez les dépendances du frontend :
+  ```bash
 npm install
 
 3. Lancez le serveur de développement en mode hot-reload :
+  ```bash
 npm run dev
-4. Le frontend sera accessible à l'adresse suivante : http://localhost:5173.
-Commandes Utiles
-Frontend
-5. Installation des dépendances :
-npm install
-6. Lancer l'application en mode développement avec hot-reload :
-npm run dev
-### 3. Compiler et minifier pour la production :
-npm run build
-
+Le frontend sera accessible à l'adresse suivante : http://localhost:5173.
