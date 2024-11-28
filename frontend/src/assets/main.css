@@ -1,0 +1,4 @@
+body, html {
+    overflow: hidden; /* Supprime tout défilement */
+    margin: 0; /* Supprime les marges par défaut */
+  }
