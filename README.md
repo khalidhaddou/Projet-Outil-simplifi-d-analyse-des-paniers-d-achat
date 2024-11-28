@@ -30,7 +30,8 @@ Pour installer et exécuter le backend, suivez les étapes ci-dessous :
 
 1. Clonez le projet depuis le dépôt Git :
    ```bash
-   git clone https://votre-repository.git
+   git clone https://github.com/khalidhaddou/Projet-Outil-simplifi-d-analyse-des-paniers-d-achat.git
+   
    cd votre-dossier
 2. Accédez au répertoire du backend :
    ```bash
